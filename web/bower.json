@@ -1,0 +1,29 @@
+{
+  "name": "sigcm-silex",
+  "homepage": "https://github.com/royopa/sigcm-silex",
+  "authors": [
+    "Rodrigo Prado <royopa@gmail.com>"
+  ],
+  "description": "sigcm site",
+  "main": "",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Ionicons": "ionicons#~2.0.1",
+    "bootstrap": "~3.3.6",
+    "components-font-awesome": "~4.5.0",
+    "respond": "Respond#~1.4.2",
+    "jquery-ui": "jquery.ui#~1.11.4",
+    "html5shiv": "~3.7.3"
+  }
+}

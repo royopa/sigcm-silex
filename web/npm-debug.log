@@ -1,0 +1,152 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'grunt-bower-concat',
+1 verbose cli   '--save-dev' ]
+2 info using npm@1.4.21
+3 info using node@v0.10.25
+4 verbose cache add [ 'grunt-bower-concat', null ]
+5 verbose cache add name=undefined spec="grunt-bower-concat" args=["grunt-bower-concat",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'grunt-bower-concat',
+6 verbose parsed url   path: 'grunt-bower-concat',
+6 verbose parsed url   href: 'grunt-bower-concat' }
+7 silly lockFile 63e5852e-grunt-bower-concat grunt-bower-concat
+8 verbose lock grunt-bower-concat /home/rodrigo/.npm/63e5852e-grunt-bower-concat.lock
+9 silly lockFile 63e5852e-grunt-bower-concat grunt-bower-concat
+10 silly lockFile 63e5852e-grunt-bower-concat grunt-bower-concat
+11 verbose addNamed [ 'grunt-bower-concat', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile bc9b8903-grunt-bower-concat grunt-bower-concat@
+14 verbose lock grunt-bower-concat@ /home/rodrigo/.npm/bc9b8903-grunt-bower-concat.lock
+15 silly addNameRange { name: 'grunt-bower-concat', range: '*', hasData: false }
+16 verbose request where is /grunt-bower-concat
+17 verbose request registry https://registry.npmjs.org/
+18 verbose request id 7c5e9eb77a8c847b
+19 verbose url raw /grunt-bower-concat
+20 verbose url resolving [ 'https://registry.npmjs.org/', './grunt-bower-concat' ]
+21 verbose url resolved https://registry.npmjs.org/grunt-bower-concat
+22 verbose request where is https://registry.npmjs.org/grunt-bower-concat
+23 info trying registry request attempt 1 at 22:08:16
+24 verbose etag "CFEWZ50IC7EQVX83Y0XH82ED9"
+25 http GET https://registry.npmjs.org/grunt-bower-concat
+26 http 304 https://registry.npmjs.org/grunt-bower-concat
+27 silly registry.get cb [ 304,
+27 silly registry.get   { date: 'Thu, 21 Jan 2016 00:08:17 GMT',
+27 silly registry.get     via: '1.1 varnish',
+27 silly registry.get     'cache-control': 'max-age=300',
+27 silly registry.get     etag: '"CFEWZ50IC7EQVX83Y0XH82ED9"',
+27 silly registry.get     age: '179',
+27 silly registry.get     connection: 'keep-alive',
+27 silly registry.get     'x-served-by': 'cache-jfk1022-JFK',
+27 silly registry.get     'x-cache': 'HIT',
+27 silly registry.get     'x-cache-hits': '39',
+27 silly registry.get     'x-timer': 'S1453334897.298702,VS0,VE0',
+27 silly registry.get     vary: 'Accept' } ]
+28 verbose etag https://registry.npmjs.org/grunt-bower-concat from cache
+29 silly addNameRange number 2 { name: 'grunt-bower-concat', range: '*', hasData: true }
+30 silly addNameRange versions [ 'grunt-bower-concat',
+30 silly addNameRange   [ '0.1.0',
+30 silly addNameRange     '0.1.1',
+30 silly addNameRange     '0.1.2',
+30 silly addNameRange     '0.2.0',
+30 silly addNameRange     '0.2.1',
+30 silly addNameRange     '0.2.2',
+30 silly addNameRange     '0.2.3',
+30 silly addNameRange     '0.2.4',
+30 silly addNameRange     '0.2.5',
+30 silly addNameRange     '0.3.0',
+30 silly addNameRange     '0.4.0',
+30 silly addNameRange     '0.5.0',
+30 silly addNameRange     '0.6.0' ] ]
+31 verbose addNamed [ 'grunt-bower-concat', '0.6.0' ]
+32 verbose addNamed [ '0.6.0', '0.6.0' ]
+33 silly lockFile 577dc9f6-grunt-bower-concat-0-6-0 grunt-bower-concat@0.6.0
+34 verbose lock grunt-bower-concat@0.6.0 /home/rodrigo/.npm/577dc9f6-grunt-bower-concat-0-6-0.lock
+35 silly lockFile 577dc9f6-grunt-bower-concat-0-6-0 grunt-bower-concat@0.6.0
+36 silly lockFile 577dc9f6-grunt-bower-concat-0-6-0 grunt-bower-concat@0.6.0
+37 silly lockFile bc9b8903-grunt-bower-concat grunt-bower-concat@
+38 silly lockFile bc9b8903-grunt-bower-concat grunt-bower-concat@
+39 silly resolved [ { name: 'grunt-bower-concat',
+39 silly resolved     description: 'Automatic concatenation of installed Bower components in right order.',
+39 silly resolved     version: '0.6.0',
+39 silly resolved     homepage: 'https://github.com/sapegin/grunt-bower-concat',
+39 silly resolved     author: { name: 'Artem Sapegin', url: 'http://sapegin.me/' },
+39 silly resolved     repository:
+39 silly resolved      { type: 'git',
+39 silly resolved        url: 'git://github.com/sapegin/grunt-bower-concat.git' },
+39 silly resolved     bugs: { url: 'https://github.com/sapegin/grunt-bower-concat/issues' },
+39 silly resolved     license: 'MIT',
+39 silly resolved     main: 'tasks/bower-concat.js',
+39 silly resolved     scripts: { test: 'grunt' },
+39 silly resolved     engines: { node: '>=0.10.0' },
+39 silly resolved     dependencies:
+39 silly resolved      { async: '~1.4.2',
+39 silly resolved        bower: '~1.6.3',
+39 silly resolved        detective: '~4.2.0',
+39 silly resolved        lodash: '~3.10.1',
+39 silly resolved        filesize: '~3.1.2',
+39 silly resolved        'underscore.string': '~3.2.2' },
+39 silly resolved     devDependencies:
+39 silly resolved      { grunt: '~0.4.5',
+39 silly resolved        'grunt-cli': '~0.1.13',
+39 silly resolved        'grunt-contrib-clean': '~0.6.0',
+39 silly resolved        'grunt-contrib-jshint': '~0.11.2',
+39 silly resolved        'grunt-jscs': '~2.1.0',
+39 silly resolved        'grunt-mocha-test': '~0.12.7',
+39 silly resolved        matchdep: '~1.0.0',
+39 silly resolved        mocha: '~2.3.3' },
+39 silly resolved     peerDependencies: { grunt: '~0.4.0' },
+39 silly resolved     keywords: [ 'gruntplugin', 'bower', 'component', 'package', 'concat' ],
+39 silly resolved     gitHead: 'a51172d253423890ecf10bd21867d8605bab6305',
+39 silly resolved     _id: 'grunt-bower-concat@0.6.0',
+39 silly resolved     _shasum: '215efc1f71f6df402c202d214b62e34f0a24c18c',
+39 silly resolved     _from: 'grunt-bower-concat@',
+39 silly resolved     _npmVersion: '3.3.6',
+39 silly resolved     _nodeVersion: '0.12.7',
+39 silly resolved     _npmUser: { name: 'sapegin', email: 'artem@sapegin.ru' },
+39 silly resolved     dist:
+39 silly resolved      { shasum: '215efc1f71f6df402c202d214b62e34f0a24c18c',
+39 silly resolved        tarball: 'http://registry.npmjs.org/grunt-bower-concat/-/grunt-bower-concat-0.6.0.tgz' },
+39 silly resolved     maintainers: [ [Object] ],
+39 silly resolved     directories: {},
+39 silly resolved     _resolved: 'https://registry.npmjs.org/grunt-bower-concat/-/grunt-bower-concat-0.6.0.tgz',
+39 silly resolved     readme: 'ERROR: No README data found!' } ]
+40 info install grunt-bower-concat@0.6.0 into /home/rodrigo/projects/sigcm-silex/web
+41 info installOne grunt-bower-concat@0.6.0
+42 verbose node_modules/grunt-bower-concat unbuild
+43 info preuninstall grunt-bower-concat@0.6.0
+44 info uninstall grunt-bower-concat@0.6.0
+45 verbose true,/home/rodrigo/projects/sigcm-silex/web/node_modules,/home/rodrigo/projects/sigcm-silex/web/node_modules unbuild grunt-bower-concat@0.6.0
+46 info postuninstall grunt-bower-concat@0.6.0
+47 verbose node_modules/grunt-bower-concat unbuild
+48 error error rolling back Error: EACCES, unlink '/home/rodrigo/projects/sigcm-silex/web/node_modules/grunt-bower-concat/node_modules/.bin/bower'
+48 error error rolling back  grunt-bower-concat@0.6.0 { [Error: EACCES, unlink '/home/rodrigo/projects/sigcm-silex/web/node_modules/grunt-bower-concat/node_modules/.bin/bower']
+48 error error rolling back   errno: 3,
+48 error error rolling back   code: 'EACCES',
+48 error error rolling back   path: '/home/rodrigo/projects/sigcm-silex/web/node_modules/grunt-bower-concat/node_modules/.bin/bower' }
+49 error Error: EACCES, unlink '/home/rodrigo/projects/sigcm-silex/web/node_modules/grunt-bower-concat/node_modules/.bin/bower'
+49 error  { [Error: EACCES, unlink '/home/rodrigo/projects/sigcm-silex/web/node_modules/grunt-bower-concat/node_modules/.bin/bower']
+49 error   errno: 3,
+49 error   code: 'EACCES',
+49 error   path: '/home/rodrigo/projects/sigcm-silex/web/node_modules/grunt-bower-concat/node_modules/.bin/bower' }
+50 error Please try running this command again as root/Administrator.
+51 error System Linux 4.2.0-23-generic
+52 error command "/usr/bin/nodejs" "/usr/bin/npm" "install" "grunt-bower-concat" "--save-dev"
+53 error cwd /home/rodrigo/projects/sigcm-silex/web
+54 error node -v v0.10.25
+55 error npm -v 1.4.21
+56 error path /home/rodrigo/projects/sigcm-silex/web/node_modules/grunt-bower-concat/node_modules/.bin/bower
+57 error code EACCES
+58 error errno 3
+59 error stack Error: EACCES, unlink '/home/rodrigo/projects/sigcm-silex/web/node_modules/grunt-bower-concat/node_modules/.bin/bower'
+60 verbose exit [ 3, true ]
