@@ -1,0 +1,38 @@
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    RewriteCond %{REQUEST_URI}::$1 ^(/.+)/(.*)::\2$
+    RewriteRule ^(.*) - [E=BASE:%1]
+
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule .? - [L]
+
+    RewriteRule .? %{ENV:BASE}/index.php [L]
+
+<IfModule !mod_rewrite.c>
+    <IfModule mod_alias.c>
+        # When mod_rewrite is not available, we instruct a temporary redirect of
+        # the startpage to the front controller explicitly so that the website
+        # and the generated links can still be used.
+        RedirectMatch 302 ^/$ /index.php/
+        # RedirectTemp cannot be used instead
+    </IfModule>
+</IfModule>
+
+<IfModule mod_authnz_sspi.c> 
+    AuthType SSPI 
+    SSPIAuth On 
+    SSPIAuthoritative On 
+    SSPIOfferBasic Off 
+    Require valid-user 
+</ifModule> 
+
+<IfModule mod_auth_sspi.c>
+    AuthType SSPI
+    SSPIAuth On
+    SSPIOfferBasic Off
+    SSPIAuthoritative On
+    require valid-user
+</ifModule>

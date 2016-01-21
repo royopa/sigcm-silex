@@ -19,7 +19,7 @@
         "symfony/process": "~2.3",
         "symfony/security": "~2.3",
         "symfony/translation": "~2.3",
-        "symfony/twig-bridge": "~2.3",
+        "symfony/twig-bridge": "^3.0",
         "symfony/validator": "~2.3",
         "symfony/http-kernel": "^2.8"
         },
