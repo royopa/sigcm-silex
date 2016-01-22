@@ -2,3 +2,5 @@
 /web/bower_components/
 /var/cache/
 /var/logs/
+# Ignore Vagrant settings
+.vagrant/
