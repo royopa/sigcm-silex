@@ -4,12 +4,13 @@ This is a starter template page. Use this page to start your new project from
 scratch. This page gets rid of all links and provides the needed markup only.
 -->
 <html>
-<title>{% block title '' %} - My Silex Application</title>
+<title>{% block title '' %} - SIGCM</title>
 <link href="{{ app.request.basepath }}/dist/css/main.css" rel="stylesheet" type="text/css" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <!-- Tell the browser to be responsive to screen width -->
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+<link rel="icon" href="{{ app.request.basepath }}/dist/img/favicon.ico" type="image/x-icon">
 <!-- Bootstrap 3.3.5 -->
 <link href="{{ app.request.basepath }}/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 <!-- Font Awesome -->
@@ -245,9 +246,29 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <!-- Sidebar Menu -->
         <ul class="sidebar-menu">
           <li class="header">HEADER</li>
+          
           <!-- Optionally, you can add icons to the links -->
-          <li class="active"><a href="#"><i class="fa fa-link"></i> <span>Link</span></a></li>
-          <li><a href="#"><i class="fa fa-link"></i> <span>Another Link</span></a></li>
+          <li class="active">
+              <a href="#">
+                  <i class="fa fa-link"></i>
+                  <span>Resumo</span>
+              </a>
+          </li>
+          
+          <li>
+              <a href="#">
+                  <i class="fa fa-link"></i>
+                  <span>Portfólio Interno</span>
+              </a>
+          </li>
+
+          <li>
+              <a href="#">
+                  <i class="fa fa-link"></i>
+                  <span>Funcionários</span>
+              </a>
+          </li>
+
           <li class="treeview">
             <a href="#"><i class="fa fa-link"></i> <span>Multilevel</span> <i class="fa fa-angle-left pull-right"></i></a>
             <ul class="treeview-menu">
