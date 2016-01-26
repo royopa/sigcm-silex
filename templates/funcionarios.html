@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="content-wrapper">
+  <!-- Content Header (Page header) -->
+  <section class="content-header">
+    <h1>
+      Funcionários
+      <small>Lista de funcionários da CEDES/SP</small>
+    </h1>
+    <ol class="breadcrumb">
+      <li><a href="#"><i class="fa fa-dashboard"></i> Funcionários</a></li>
+    </ol>
+  </section>
+
+  <!-- Main content -->
+  <section class="content" ng-controller="funcionariosController">
+    <table class="row-border hover" datatable="" dt-options="dtOptions" dt-column-defs="dtColumnDefs" dt-columns="dtColumns">
+    </section><!-- /.content -->
+  </div><!-- /.content-wrapper -->
+  {% endblock %}

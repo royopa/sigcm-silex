@@ -1,0 +1,92 @@
+<div class="page-header-title">
+  <h1>SIGCM - Consulta</h1>
+</div>
+
+<div class="col-md-12" ng-controller="consultaController">
+  <form name="form" ng-init="setFormScope(this)" ng-submit="submitForm()">
+        <div class="row">
+            <div class="form-group col-xs-6">
+              <label class="control-label" for="dominio">Domínio</label>
+              <select id="dominio" name="dominio" class="form-control select2" ng-options="dominio.id as dominio.text for dominio in dominios" ng-model="dominio"></select>
+            </div>
+
+            <div class="form-group col-xs-2">
+              <label class="control-label" for="gea">GEA</label>
+              <select id="gea" name="gea" class="form-control select2" ng-options="gea.id as gea.text for gea in geas" ng-model="gea"></select>
+            </div>
+
+            <div class="form-group col-xs-3">
+              <label class="control-label" for="cpm">CPM</label>
+              <select id="cpm" name="cpm" class="form-control select2" ng-options="cpm.id as cpm.text for cpm in cpms" ng-model="cpm"></select>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group col-xs-3">
+              <label class="control-label" for="cti">Coord. TI</label>
+              <select id="cti" name="cti" class="form-control select2" ng-options="cti.id as cti.text for cti in ctis" ng-model="cti"></select>
+            </div>
+
+            <div class="form-group col-xs-3">
+              <label class="control-label" for="cpti">Coord. Proj. TI</label>
+              <select id="cpti" name="cpti" class="form-control select2" ng-options="cpti.id as cpti.id for cpti in cptis" ng-model="cpti"></select>
+            </div>
+
+
+            <div class="form-group col-xs-5">
+              <label class="control-label" for="sigla">Sigla</label>
+              <select id="sigla" name="sigla" class="form-control select2" ng-options="sigla.id as sigla.id for sigla in siglas" ng-model="sigla"></select>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group col-xs-8">
+              <label class="control-label" for="fsw">FSW</label>
+              <select id="fsw" name="fsw" class="form-control select2" ng-options="fsw.id as fsw.id for fsw in fsws" ng-model="fsw"></select>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group col-xs-2">
+              <label class="control-label" for="data_inicio">Data Início</label>
+              <input id="data_inicio" name="data_inicio" type="text" placeholder="Data Início" class="form-control datepicker" ng-model="data_inicio" />
+            </div>
+
+            <div class="form-group col-xs-2">
+                <label class="control-label" for="data_fim">Data Fim</label>
+                <input id="data_fim" name="data_fim" type="text" placeholder="Data Fim" class="form-control datepicker" ng-model="data_fim" />
+            </div>
+
+            <div class="form-group col-xs-3">
+                <label class="control-label" for="consolidador">Consolidada por:</label>
+                <select id="consolidador" name="consolidador" class="form-control select2" ng-options="consolidador.id as consolidador.text for consolidador in consolidadores" ng-model="consolidador"></select>
+            </div>
+
+            <div class="form-group col-xs-2">
+              <label class="control-label" for="button">&nbsp;</label>
+              <input id="button" name="button" type="submit" class="btn btn-primary form-control" value="Consultar" ngClick="Submit">
+            </div>
+        </div>
+  </form>
+
+</div>
+
+<script>
+$(function() {
+  $(".select2").select2({
+    allowClear: true
+  });
+
+  $(".datepicker").datepicker({
+    dateFormat: 'dd/mm/yy',
+    dayNames: ['Domingo','Segunda','Terça','Quarta','Quinta','Sexta','Sábado'],
+    dayNamesMin: ['D','S','T','Q','Q','S','S','D'],
+    dayNamesShort: ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb','Dom'],
+    monthNames: ['Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro'],
+    monthNamesShort: ['Jan','Fev','Mar','Abr','Mai','Jun','Jul','Ago','Set','Out','Nov','Dez'],
+    nextText: 'Próximo',
+    prevText: 'Anterior',
+    //beforeShowDay: $.datepicker.noWeekends,
+  });
+});
+</script>

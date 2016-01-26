@@ -5,6 +5,7 @@ use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
+use Sigcm\Funcionarios\Funcionarios;
 
 //Request::setTrustedProxies(array('127.0.0.1'));
 
@@ -12,6 +13,22 @@ $app->get('/', function () use ($app) {
     return $app['twig']->render('index.html', array());
 })
 ->bind('homepage')
+;
+
+$app->get('/funcionarios_json', function () use ($app) {
+    $funcionarios = new Funcionarios();
+    return $funcionarios->getJson();
+    return $app->json($funcionarios->getJson());
+})
+->bind('funcionarios_json')
+;
+
+
+$app->get('/funcionarios', function () use ($app) {
+    $funcionarios = new Funcionarios();
+    return $app['twig']->render('funcionarios.html', array());
+})
+->bind('funcionarios')
 ;
 
 $app->error(function (\Exception $e, $code) use ($app) {

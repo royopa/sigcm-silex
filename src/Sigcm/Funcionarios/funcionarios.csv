@@ -1,0 +1,297 @@
+matricula,nome,coordenacaoTi,coordenacaoProjetosTi,funcao,tipoFuncao,dataNascimento
+C068446,Ricardo Andrade Soares,CEDESSP001,,Gerente de Centralizadora,Gerencial,1983-01-18
+C061911,Luis Henrique Prando,CEDESSP001,CEDESSP001,NA,Técnico,1978-04-13
+C024735,Rubens Alves De Souza,CEDESSP010,,Coordenador de TI,Gerencial,1968-12-13
+C103527,Rafael Augusto Tanaami Galante,CEDESSP010,CEDESSP011,Assistente Junior,Técnico,1984-05-16
+C031745,Andre Carlos Antunes De Oliveira,CEDESSP010,CEDESSP011,TBN,Técnico,1968-05-31
+C040763,Flavia Ribeiro Pinho Murbach,CEDESSP010,CEDESSP011,Assistente Senior,Técnico,1968-06-25
+C099731,Rommel Gabriel Goncalves Ramos,CEDESSP010,CEDESSP011,Consultor de TI,Técnico,1976-05-11
+C877543,Wagner Dellarco De Jule,CEDESSP010,CEDESSP011,TBN,Técnico,1960-09-26
+C142002,Carlos Jose Mogadouro,CEDESSP010,CEDESSP011,Assistente Junior,Técnico,1963-05-03
+C054158,Mauricio Minoru Saito,CEDESSP010,CEDESSP012,Coordenador de Projeto de TI,Gerencial,1969-02-21
+C430626,Jorge Kasuiuki Ono,CEDESSP010,CEDESSP012,TBN,Técnico,1961-09-14
+C076473,Silvio Fernandes,CEDESSP010,CEDESSP012,Assistente Pleno,Técnico,1970-07-13
+C070138,Fabio Martorano Da Cruz,CEDESSP010,CEDESSP012,Assistente Senior,Técnico,1977-04-02
+C066380,Raymundo Da Silva Campos Junior,CEDESSP010,CEDESSP012,Assistente Senior,Técnico,1981-09-09
+C102982,Angelo Nacinbem Rabacow,CEDESSP020,,Coordenador de TI,Gerencial,1962-08-30
+C095268,Felipe Vergueiro Otake,CEDESSP020,CEDESSP021,Assistente Junior,Técnico,1984-04-25
+C056389,Jose Claudio Crespin,CEDESSP020,CEDESSP021,Consultor de TI,Técnico,1964-11-17
+C086177,Rafael Bernardo Ferreira Santos,CEDESSP020,CEDESSP021,Coordenador de Projeto de TI,Gerencial,1983-12-07
+C105765,Vanessa Messias De Souza,CEDESSP020,CEDESSP021,Assistente Junior,Técnico,1984-04-16
+C078130,Vivian Feltrin,CEDESSP020,CEDESSP021,Assistente Pleno,Técnico,1981-12-14
+C105977,Juliana Avila Santos Da Silva,CEDESSP020,CEDESSP021,Assistente Pleno,Técnico,1987-08-19
+C079393,Alessandra Yamamoto Martins,CEDESSP020,CEDESSP021,Assistente Pleno,Técnico,1983-07-19
+C136847,Selisvaldo Pereira Montalvao,CEDESSP020,CEDESSP023,TBN,Técnico,1969-10-08
+C108464,Vinicius Barbosa Lira,CEDESSP020,CEDESSP023,TBN,Técnico,1986-07-01
+C075440,Marilisa Brunelo Neri,CEDESSP020,CEDESSP023,Assistente Junior,Técnico,1976-03-06
+C095270,Mariana Trajano,CEDESSP020,CEDESSP023,Assistente Junior,Técnico,1983-01-20
+C085535,Gisele Mayumi Suga Utida,CEDESSP020,CEDESSP023,Coordenador de Projeto de TI,Gerencial,1969-12-22
+C100566,Sandra Borba Cerri,CEDESSP020,CEDESSP023,Assistente Pleno,Técnico,1975-09-30
+C105764,Raquel De Jesus Silva,CEDESSP020,CEDESSP023,TBN,Técnico,1983-07-27
+C019987,Kazuo Sakurai,CEDESSP040,,Coordenador de TI,Gerencial,1961-02-06
+C074579,Alexandre Ishida Okabayashi,CEDESSP040,CEDESSP041,Assistente Pleno,Técnico,1982-10-19
+C086039,Carlos De Oliveira Soares,CEDESSP040,CEDESSP041,Assistente Junior,Técnico,1977-11-13
+C101354,Cristiane Araujo Garcia,CEDESSP040,CEDESSP041,Consultor de TI,Técnico,1976-02-18
+C075682,Eduardo De Vasconcelos Belisario,CEDESSP040,CEDESSP041,Assistente Pleno,Técnico,1981-08-21
+C111493,Fernanda Cristina Nicoletti Dos Santos,CEDESSP040,CEDESSP041,Consultor de TI,Técnico,1973-01-01
+C062177,Luciana Cerqueira Da Costa,CEDESSP040,CEDESSP041,Assistente Senior,Técnico,1978-08-28
+C066893,Ricardo Lindon Marques Da Silva,CEDESSP040,CEDESSP041,Coordenador de Projeto de TI,Gerencial,1981-02-15
+C136103,Sueli Rodrigues Dias,CEDESSP040,CEDESSP041,Assistente Senior,Técnico,1953-02-15
+C083805,Flavio De Almeida Gagliardi,CEDESSP040,CEDESSP042,Assistente Senior,Técnico,1982-06-05
+C105762,Lawrence Nakamura,CEDESSP040,CEDESSP042,Assistente Junior,Técnico,1981-04-02
+C084816,Luis Henrique Donda,CEDESSP040,CEDESSP042,Assistente Senior,Técnico,1981-02-04
+C074493,Carolina Ladeia De Agustini,CEDESSP040,CEDESSP042,Consultor de TI,Técnico,1984-02-01
+C064725,Fabricio Eduardo Kubota,CEDESSP040,CEDESSP042,Coordenador de Projeto de TI,Técnico,1978-10-03
+C076507,Karen Da Silva Paiva,CEDESSP040,CEDESSP042,Consultor de TI,Técnico,1982-01-15
+C065755,Rafael Dias Sabino,CEDESSP040,CEDESSP043,Coordenador de Projeto de TI,Gerencial,1983-11-19
+C866855,Sylvio Jose Persson Ceccon,CEDESSP040,CEDESSP043,Consultor de TI,Técnico,1961-02-25
+C071134,Rodolfo Zibordi Giao,CEDESSP040,CEDESSP043,Consultor de TI,Técnico,1983-07-28
+C077162,Fernando Pereira Rosa,CEDESSP040,CEDESSP043,Consultor de TI,Técnico,1979-04-17
+C054284,Cristiane Moreira Do Amaral Luz,CEDESSP050,,Coordenador de TI,Gerencial,1978-11-27
+C092581,Anderson Pinheiro Balbo,CEDESSP050,CEDESSP051,Supervisor de TI,Gerencial,1982-12-05
+C099406,Nathaly De Jesus Alexandrino,CEDESSP050,CEDESSP051,Assistente Junior,Técnico,1988-12-24
+C024567,Gilberto Alves Teixeira,CEDESSP050,CEDESSP051,Especialista 6h,Técnico,1960-09-20
+C032672,Jose Carlos Gaspar,CEDESSP050,CEDESSP051,TBN,Técnico,1961-03-17
+C105975,Adriana Spacca Martins,CEDESSP050,CEDESSP051,Assistente Junior,Técnico,1970-01-28
+C081512,Jean Sanches Bino,CEDESSP050,CEDESSP051,Consultor de TI,Técnico,1984-07-05
+C094133,Rodrigo De Aguiar Lopes Billa,CEDESSP050,CEDESSP052,Assistente Pleno,Técnico,1984-05-05
+C861167,Silvio Osiro,CEDESSP050,CEDESSP052,Assistente Senior,Técnico,1961-06-10
+C111484,Luiz Vilas Boas,CEDESSP050,CEDESSP052,Assistente Junior,Técnico,1960-08-18
+C128556,Jose Eduardo Ferreira Da Silva,CEDESSP050,CEDESSP052,TBN,Técnico,1990-01-25
+C076310,Sidonio Amorim De Oliveira,CEDESSP050,CEDESSP052,Consultor de TI,Técnico,1970-04-12
+C091453,Rafael Ferreira Baltazar,CEDESSP050,CEDESSP052,Supervisor de TI,Gerencial,1986-01-11
+C022070,Eliane Grotti Borges,CEDESSP240,,Coordenador de TI,Gerencial,1968-05-25
+C077159,Marcelo Lopes Camelo,CEDESSP240,CEDESSP243,Consultor de TI,Técnico,1981-03-02
+C112312,Liliane Saemy Tsukamoto,CEDESSP240,CEDESSP243,TBN,Técnico,1990-04-04
+C021997,Marco Fuzaro,CEDESSP240,CEDESSP243,Consultor de TI,Técnico,1971-06-26
+C093811,Thiago Vinicius De Souza Santos,CEDESSP240,CEDESSP243,Coordenador de Projeto de TI,Gerencial,1988-06-10
+C050873,Fernando Pellisario De Godoy,CEDESSP240,CEDESSP243,Especialista 8h,Técnico,1979-03-26
+C102996,Douglas Jundi Katayama Koyama,CEDESSP240,CEDESSP243,Assistente Pleno,Técnico,1987-04-18
+C129429,Maria Inez Aiolfi Aleixo Rey,CEDESSP240,CEDESSP244,Consultor de TI,Técnico,1964-03-03
+C024513,Marcos Correia Santos,CEDESSP240,CEDESSP244,Especialista 6h,Técnico,1968-07-25
+C033941,Joao Luiz Pedroso Junqueira,CEDESSP240,CEDESSP244,Coordenador de Projeto de TI,Gerencial,1964-12-03
+C066658,Hermes Jose Rodrigues Junior,CEDESSP240,CEDESSP244,Consultor de TI,Técnico,1984-03-06
+C141999,Renato Galantini,CEDESSP240,CEDESSP244,TBN,Técnico,1979-11-10
+C092577,Renato Arnaldo Da Silva,CEDESSP240,CEDESSP244,Especialista 8h,Técnico,1963-02-09
+C426287,Jorge Caetano Dos Santos,CEDESSP250,,Coordenador de TI,Gerencial,1958-01-10
+C110727,Odante Ribeiro Swerts Junior,CEDESSP250,CEDESSP251,Assistente Junior,Técnico,1978-03-30
+C127094,Celso Ricardo Bossi,CEDESSP250,CEDESSP251,Consultor de TI,Técnico,1962-11-07
+C077166,Helio Yuji Nakafori,CEDESSP250,CEDESSP251,Coordenador de Projeto de TI,Gerencial,1965-08-21
+C105983,Paloma Silva Vieira,CEDESSP250,CEDESSP251,Assistente Junior,Técnico,1984-08-30
+C042629,Simonia Helena De Andrade,CEDESSP250,CEDESSP251,Especialista 8h,Técnico,1966-05-28
+C032688,Maria Angela Vieira Da Rocha,CEDESSP250,CEDESSP251,TBN,Técnico,1965-06-04
+C082353,Regina De Almeida Custodio,CEDESSP250,CEDESSP251,Assistente Senior,Técnico,1971-06-28
+C077158,Sergio Faustino Marreiros,CEDESSP250,CEDESSP252,TBN,Técnico,1967-02-10
+C091027,Marcelo Gutierrez,CEDESSP250,CEDESSP252,Consultor de TI,Técnico,1972-01-15
+C105981,Daniel Crivelin De Oliveira,CEDESSP250,CEDESSP252,Assistente Pleno,Técnico,1982-04-21
+C072424,Fabio Romao Prado,CEDESSP250,CEDESSP252,Coordenador de Projeto de TI,Gerencial,1981-02-05
+C101489,Sergio Martins Dealtry,CEDESSP330,,Consultor de TI,Técnico,1957-09-28
+C056474,Kiyoshi Mada,CEDESSP330,,Supervisor de TI,Gerencial,1964-01-02
+C052439,Ricardo Deodato Negrini,CEDESSP330,,Coordenador de TI,Gerencial,1977-12-16
+C104086,Gessica Cachoeira Dos Santos,CEDESSP330,CEDESSP333,Assistente Junior,Técnico,1984-07-29
+C129426,Marcelo De Araujo Maximiano,CEDESSP330,CEDESSP333,Consultor de TI,Técnico,1969-04-09
+C090751,Marcos De Almeida Verri,CEDESSP330,CEDESSP333,Coordenador de Projeto de TI,Gerencial,1979-09-17
+C079590,Eric Pignaton,CEDESSP330,CEDESSP333,Consultor de TI,Técnico,1978-08-28
+C111807,Rafael Costa Braga,CEDESSP330,CEDESSP334,Assistente Junior,Técnico,1984-04-18
+C141990,Denise Sayuri Sakai,CEDESSP330,CEDESSP334,TBN,Técnico,1964-03-03
+C076508,Elika Okubo,CEDESSP330,CEDESSP334,TBN,Técnico,1954-11-08
+C038021,Carlos Augusto Stresser Neto,CEDESSP330,CEDESSP334,TBN,Técnico,1965-03-25
+C074517,Rodrigo Ramos Takata Palma,CEDESSP330,CEDESSP334,Supervisor de TI,Gerencial,1984-01-30
+C081566,Joao Henrique Aroldi,CEDESSP330,CEDESSP334,Assistente Pleno,Técnico,1981-11-04
+C093331,Marco Antonio Rodrigues,CEDESSP330,CEDESSP334,Assistente Junior,Técnico,1958-03-02
+C034781,Jose Roberto De Melo Franco Junior,CEDESSP330,CEDESSP334,Consultor de TI,Técnico,1967-03-10
+C066337,Pedro Nivaldo Pavanelli,CEDESSP340,,Coordenador de TI,Gerencial,1961-04-16
+C079463,Paulo Rocha Ferreira,CEDESSP340,CEDESSP343,Consultor de TI,Técnico,1972-05-08
+C021764,Drausio Mazzuchelli De Oliveira,CEDESSP340,CEDESSP343,Consultor de TI,Técnico,1979-03-29
+C092897,Carlos Harari,CEDESSP340,CEDESSP343,Assistente Junior,Técnico,1969-07-26
+C058944,Marcio Clei Da Silva,CEDESSP340,CEDESSP343,Coordenador de Projeto de TI,Gerencial,1973-07-16
+C054153,Everaldo Da Silva Homem,CEDESSP340,CEDESSP344,Assistente Junior,Técnico,1971-11-15
+C086594,Ricardo Rocha Cianfrone,CEDESSP340,CEDESSP344,Assistente Junior,Técnico,1978-06-19
+C050755,Joao Vicente De Almeida Seabra,CEDESSP340,CEDESSP344,TBN,Técnico,1966-06-13
+C078497,Wladimir Vieira De Souza,CEDESSP340,CEDESSP344,Coordenador de Projeto de TI,Gerencial,1980-02-22
+C072298,Daniella Yuhara,CEDESSP340,CEDESSP344,Assistente Pleno,Técnico,1981-10-10
+C092912,Rogerio De Franca Pimentel,CEDESSP340,CEDESSP344,Assistente Pleno,Técnico,1980-10-04
+C091457,Stephano Ramalho Biazon Gomes,CEDESSP370,CEDESSP370,Consultor de TI,Técnico,1987-08-31
+C007020,George Artur Vieira Santos,CEDESSP370,CEDESSP370,TBN,Técnico,1962-06-02
+C075681,Marcelo Mariano Tedeschi,CEDESSP370,CEDESSP370,Consultor de TI,Técnico,1983-06-10
+C129427,Gilberto Olimpio Dos Santos,CEDESSP370,CEDESSP370,Assistente junior,Técnico,1984-01-09
+C039423,Edson Araujo,CEDESSP370,CEDESSP370,Assistente Senior,Técnico,1968-11-12
+C077314,Edson Leme,CEDESSP370,CEDESSP370,Consultor de TI,Técnico,1981-10-20
+C096210,Ricardo Monteiro Ramos,CEDESSP370,CEDESSP370,Assistente Senior,Técnico,1984-04-02
+C091455,Thais Meira Benevides,CEDESSP370,CEDESSP370,Assistente Senior,Técnico,1983-06-10
+C089715,Vanessa Beuttenmuller Castilho Aguiar,CEDESSP370,CEDESSP370,Assistente Junior,Técnico,1981-09-12
+C089711,Fabiane Cristina Priviati,CEDESSP370,CEDESSP370,Assistente Pleno,Técnico,1984-04-03
+C052460,Sergio Ricardo Araujo Vares,CEDESSP370,CEDESSP370,Assistente Pleno,Técnico,1973-12-20
+C091459,Shirlei Soares Medeiros Braghetto,CEDESSP370,CEDESSP370,Assistente Pleno,Técnico,1966-11-28
+C093321,Luis Henrique De Seixas,CEDESSP370,CEDESSP370,Assistente Junior,Técnico,1960-04-02
+C095090,Joeudo Santana Ferreira,CEDESSP370,CEDESSP370,Coordenador de Projeto de TI,Gerencial,1982-04-21
+C085025,Eduardo Aparecido Koscianski Milan,CEDESSP370,CEDESSP370,Coordenador de TI EE,Gerencial,1981-08-01
+C076759,Ana Cecilia De Souza,CEDESSP380,,Coordenador de TI,Gerencial,1975-05-16
+C083073,Pedro Henrique Boujadi De Sousa Silveira,CEDESSP380,CEDESSP381,Assistente Junior,Técnico,1983-11-23
+C070790,Carlos Miguel Goncalves,CEDESSP380,CEDESSP381,Analista Junior 8h,Técnico,1951-07-10
+C071292,Celso Lucio Da Silva Junior,CEDESSP380,CEDESSP381,Coordenador de Projeto de TI,Gerencial,1978-05-26
+C019983,Maria Rosemere Degan Melchert,CEDESSP380,CEDESSP381,TBN,Técnico,1966-06-03
+C044758,Nancy Aparecida Alves Sredoja,CEDESSP380,CEDESSP381,Consultor de TI,Técnico,1965-01-30
+C127091,Arnaldo Beraldo,CEDESSP380,CEDESSP381,TBN,Técnico,1962-12-13
+C019944,Maria Lourdes Bucciarelli R Fernandes,CEDESSP380,CEDESSP381,TBN,Gerencial,1958-02-25
+C024534,Jose Wilson Dos Santos Junior,CEDESSP380,CEDESSP381,Assistente Pleno,Técnico,1966-12-09
+C111485,Renato Aparecido Sampaio,CEDESSP380,CEDESSP382,Coordenador de Projeto de TI,Gerencial,1970-12-20
+C134675,Fernando Geraldo De Oliveira,CEDESSP380,CEDESSP382,TBN,Técnico,1966-03-20
+C067984,Fernando Alves Da Silva,CEDESSP380,CEDESSP382,Assistente Pleno,Técnico,1966-05-14
+C073404,Vitor Mendes Guedes,CEDESSP380,CEDESSP382,Assistente Pleno,Técnico,1981-08-10
+C101534,Italo Marinho Cippiciani,CEDESSP380,CEDESSP382,Assistente Junior,Técnico,1983-01-25
+C141995,Luis Fernando Chefer Borges,CEDESSP380,CEDESSP382,TBN,Técnico,1981-02-18
+C033951,Iara Salles Farias,CEDESSP380,CEDESSP383,Líder de Projeto de Tecnologia,Gerencial,1966-11-18
+C092583,Nelson Ruiz Affonseca Junior,CEDESSP380,CEDESSP383,TBN,Técnico,1955-07-29
+C077203,Jose Milton Santos,CEDESSP380,CEDESSP383,Assistente Junior,Técnico,1967-05-30
+C091965,Keiko Nishi,CEDESSP380,CEDESSP383,Consultor de TI,Técnico,1962-09-15
+C056464,Liliane Onda Rezende Machado,CEDESSP410,,Coordenador de TI,Gerencial,1974-02-27
+C091451,Adylla De Oliveira Tota Mello,CEDESSP410,CEDESSP411,Assistente Junior,Técnico,1987-01-17
+C076514,Vagner Fabio Guilherme Da Silva,CEDESSP410,CEDESSP411,Coordenador de Projeto de TI,Gerencial,1982-10-22
+C110744,Luiz Antonio Eleuterio De Lima,CEDESSP410,CEDESSP411,Consultor de TI,Técnico,1957-08-21
+C142161,Rinaldo Ferreira Marques,CEDESSP410,CEDESSP411,TBN,Técnico,1971-06-21
+C091628,Alessandra Bosquilha,CEDESSP410,CEDESSP411,Assistente Junior,Técnico,1970-01-25
+C093846,Clovis Ferreira,CEDESSP410,CEDESSP411,Consultor de TI,Técnico,1944-07-16
+C064896,Alexandre Borges Smania,CEDESSP410,CEDESSP412,Assistente Pleno,Técnico,1972-01-21
+C058935,Luciano Ricardo De Sousa Monteiro,CEDESSP410,CEDESSP412,Assistente Senior,Técnico,1974-04-25
+C066331,Edmon Da Silva,CEDESSP410,CEDESSP412,Coordenador de Projeto de TI,Gerencial,1982-09-19
+C320846,Gilberto Goncalves,CEDESSP550,,Coordenador de TI,Gerencial,1958-12-21
+C111489,Johnata William Zorzi,CEDESSP550,CEDESSP552,Assistente Junior,Técnico,1984-03-17
+C042219,Antonio Carlos Barbosa,CEDESSP550,CEDESSP552,Coordenador de Projeto de TI,Gerencial,1966-08-30
+C081860,Johnny Hess,CEDESSP550,CEDESSP552,Analista Junior 8h,Técnico,1962-05-27
+C075689,Debora Da Silva Barros,CEDESSP550,CEDESSP553,Coordenador de Projeto de TI,Gerencial,1974-11-06
+C090053,Mauricio Tarla Menezes,CEDESSP550,CEDESSP553,Assistente Junior,Técnico,1981-06-09
+C094494,Solange Pereira Barbosa Da Silva,CEDESSP550,CEDESSP553,Assistente Junior,Técnico,1971-11-03
+C084329,Liziane Yasue Miyata,CEDESSP550,CEDESSP553,Assistente Pleno,Técnico,1977-02-08
+C142036,Rubens Odan da Silva,CEDESSP550,CEDESSP553,TBN,Técnico,1976-01-15
+C056467,Nelson Cartolano,CEDESSP550,CEDESSP553,TBN,Técnico,1955-05-05
+C110848,Ivete Aparecida Dorizzoti,CEDESSP550,CEDESSP553,Assistente Junior,Técnico,1954-04-15
+C129424,Antonio Saes Caceres Junior,CEDESSP550,CEDESSP554,Assistente Junior,Técnico,1957-02-10
+C105989,Daniel Bomfim,CEDESSP550,CEDESSP554,TBN,Técnico,1982-11-12
+C089812,Marcia Coelho Augusto Da Cruz,CEDESSP550,CEDESSP554,Consultor de TI,Técnico,1957-05-12
+C083072,Paulo Roberto Marchesin,CEDESSP550,CEDESSP554,Assistente Pleno,Técnico,1966-03-29
+C054268,Thiago Bezerra Torres,CEDESSP550,CEDESSP554,Coordenador de Projeto de TI,Gerencial,1979-12-26
+C066243,Breno Costa Marques,CEDESSP570,,Coordenador de TI,Gerencial,1981-09-14
+C076760,Edvaldo Pereira Da Silva,CEDESSP570,CEDESSP571,Assistente Junior,Técnico,1977-06-11
+C104587,Jose Edson Ferreira Da Silva,CEDESSP570,CEDESSP571,TBN,Técnico,1979-03-31
+C034099,Lucia Angela Salomao,CEDESSP570,CEDESSP571,Assistente Junior,Técnico,1964-06-23
+C075247,Edson Pereira De Barbara,CEDESSP570,CEDESSP571,Assistente Junior,Técnico,1965-05-22
+C074576,Aurelio Carlos Baptista Da Silva,CEDESSP570,CEDESSP571,Coordenador de Projeto de TI,Gerencial,1965-05-23
+C302145,Flaviano Liberato Neto,CEDESSP570,CEDESSP572,TBN,Técnico,1958-10-22
+C052455,Iris Do Carmo Xavier Da Silva,CEDESSP570,CEDESSP572,Assistente Senior,Técnico,1976-08-02
+C118039,Adilson Inomata,CEDESSP570,CEDESSP572,TBN,Técnico,1965-06-03
+C062315,Marcio Doine,CEDESSP570,CEDESSP572,Analista Pleno 8h,Técnico,1971-01-04
+C075673,Laudo Eiji Ogata,CEDESSP570,CEDESSP572,Supervisor de TI,Gerencial,1979-11-17
+C039489,Marco Aurelio Ramirez Bazzo,CEDESSP570,CEDESSP572,Assistente Junior,Técnico,1965-12-13
+C062883,Silvana Mobst,CEDESSP570,CEDESSP574,Consultor de TI,Técnico,1966-10-16
+C078090,Alan Diamantino Matias,CEDESSP570,CEDESSP574,Coordenador de Projeto de TI,Gerencial,1982-12-21
+C094713,Cisely Simoes Dias,CEDESSP570,CEDESSP574,Consultor de TI,Técnico,1961-04-07
+C142001,Jose Fernando Antunes de Almeida,CEDESSP570,CEDESSP574,TBN,Técnico,1960-03-05
+C089758,Oseias Fernandes Aguiar,CEDESSP570,CEDESSP574,Assistente Pleno,Técnico,1966-05-19
+C039413,Roberto Murbach Junior,CEDESSP570,CEDESSP574,Assistente Junior,Técnico,1967-11-12
+C051048,Fernanda Moreira Sena Gomes,CEDESSP580,,Coordenador de TI,Gerencial,1978-03-05
+C088691,Alessandra Ribeiro Oliveira,CEDESSP580,CEDESSP581,Supervisor de TI,Gerencial,1980-10-14
+C067277,Fernando Tadeu Rodrigues,CEDESSP580,CEDESSP581,Consultor de TI,Técnico,1981-08-07
+C093819,Joao Paulo Da Silva,CEDESSP580,CEDESSP581,Assistente Senior,Técnico,1965-12-11
+C091880,Maria Harue Matsumoto,CEDESSP580,CEDESSP582,Consultor de TI,Técnico,1961-12-01
+C139608,Nilson Jose De Campos,CEDESSP580,CEDESSP582,Assistente Junior,Técnico,1971-12-02
+C112320,Marcia Teresa Lopes De Souza Dias,CEDESSP580,CEDESSP582,Assistente Junior,Técnico,1956-06-04
+C111471,Aparecida Maria Aravequia,CEDESSP580,CEDESSP582,Consultor de TI,Técnico,1965-01-03
+C071002,Andre Taishi Yamaguchi,CEDESSP580,CEDESSP582,Coordenador de Projeto de TI,Gerencial,1981-11-17
+C062702,Jose Eli De Godoi,CEDESSP580,CEDESSP582,Assistente Senior,Técnico,1969-06-18
+C088329,Luiz Alberto Ramalho,CEDESSP590,,Coordenador de TI,Gerencial,1967-01-07
+C141997,Jose Alexandre Ferreira Bitencourt,CEDESSP590,CEDESSP591,TBN,Técnico,1978-11-08
+C109000,Guilherme Medeiros Vieira,CEDESSP590,CEDESSP591,Assistente Junior,Técnico,1985-01-21
+C073489,Dennis De Almeida Lopes,CEDESSP590,CEDESSP591,Consultor de TI,Técnico,1982-06-07
+C074557,Marcelo Roberto De Miranda Mesquita,CEDESSP590,CEDESSP591,Assistente Pleno,Técnico,1977-06-04
+C021613,Ronald Santos Ferreira,CEDESSP590,CEDESSP591,Coordenador de Projeto de TI,Gerencial,1967-10-07
+C088734,Dalmo Rangel Braga Filho,CEDESSP590,CEDESSP591,Assistente Pleno,Técnico,1982-03-17
+C064872,Antonio Eduardo Vieira,CEDESSP590,CEDESSP592,Coordenador de Projeto de TI,Gerencial,1965-05-05
+C123316,Paulo Cezar Roma,CEDESSP590,CEDESSP592,TBN,Técnico,1952-02-05
+C095273,Claudineia De Lima Mariano,CEDESSP590,CEDESSP592,Assistente Junior,Técnico,1975-11-06
+C079422,Elton Dos Santos,CEDESSP590,CEDESSP593,Assistente Junior,Técnico,1981-08-12
+C091590,Ana Paula Da Costa E Silva,CEDESSP590,CEDESSP593,Assistente Pleno,Técnico,1987-05-21
+C035007,Suzy Kubo,CEDESSP590,CEDESSP593,TBN,Técnico,1963-09-11
+C093810,Cintia Regina Rhein Kato,CEDESSP590,CEDESSP593,Assistente Junior,Técnico,1973-08-15
+C086804,Thiago Figaro Krasauskas,CEDESSP590,CEDESSP593,Coordenador de Projeto de TI,Gerencial,1984-06-22
+C105982,Hulianne Virginia Magalhaes S Martinho,CEDESSP590,CEDESSP593,Assistente Junior,Técnico,1985-07-26
+C059643,Celso Victor,CEDESSP610,,Coordenador de TI,Gerencial,1967-03-12
+C112269,Regiane Pereira Rondon,CEDESSP610,CEDESSP611,TBN,Técnico,1980-07-26
+C090141,Ercilia Maria Sales Silva Soares Camargo,CEDESSP610,CEDESSP611,Assistente Senior,Técnico,1984-06-01
+C037478,Rosangela Pereira Cruz,CEDESSP610,CEDESSP611,Coordenador de Projeto de TI,Gerencial,1968-08-23
+C111495,Claudio Povoas Pereira Junior,CEDESSP610,CEDESSP612,Assistente Pleno,Técnico,1975-10-04
+C134674,Jose Ricardo Epprecht,CEDESSP610,CEDESSP612,TBN,Técnico,1966-07-21
+C095070,Robson Ricardo De Macedo,CEDESSP610,CEDESSP612,Assistente Senior,Técnico,1985-08-01
+C142000,Caique Vilela,CEDESSP610,CEDESSP612,TBN,Técnico,1995-01-27
+C111529,Denis Ricard Panariello,CEDESSP610,CEDESSP612,Consultor de TI,Técnico,1977-08-31
+C041737,Flavia Augusta Martins Dantas De Lima,CEDESSP610,CEDESSP612,Especialista 8h,Técnico,1968-02-19
+C077148,Jose Carlos Montes,CEDESSP610,CEDESSP612,Supervisor de TI,Gerencial,1960-02-27
+C119059,Samuelsen Da Cunha Martins,CEDESSP610,CEDESSP612,TBN,Técnico,1978-09-21
+C074555,Priscila De Jesus Almeida,CEDESSP610,CEDESSP612,Assistente Junior,Técnico,1983-07-03
+C111494,Marcelo Minami Pollini,CEDESSP610,CEDESSP612,Assistente Junior,Técnico,1981-03-25
+C053780,Gustavo Silva Costa,CEDESSP620,,Coordenador de TI,Gerencial,1977-03-31
+C022068,Carlos Alberto Martins Machado,CEDESSP620,CEDESSP621,Coordenador de Projeto de TI,Gerencial,1966-08-19
+C095316,Fatima Cristina Portela Diniz,CEDESSP620,CEDESSP621,Assistente Senior,Técnico,1970-09-21
+C129631,Marta De Lima Isaac Siqueira,CEDESSP620,CEDESSP621,Assistente Junior,Técnico,1959-08-15
+C090630,Paulo Fernando Miranda Sinetti,CEDESSP620,CEDESSP621,Consultor de TI,Técnico,1980-09-09
+C083132,Leandro Gomes Machado,CEDESSP620,CEDESSP622,Assistente Pleno,Técnico,1983-06-26
+C093315,Flavio Santos Costa,CEDESSP620,CEDESSP622,Assistente Senior,Técnico,1984-10-20
+C084776,Isaac Santos De Morais,CEDESSP620,CEDESSP622,TBN,Técnico,1978-10-12
+C078087,Marcelo Pereira Leite Gomes,CEDESSP620,CEDESSP622,Coordenador de Projeto de TI,Gerencial,1970-02-23
+C066286,Fabio Renato Tanaka,CEDESSP630,,Coordenador de TI,Gerencial,1981-01-31
+C024450,Paulo De Tarso Carozzi De Miranda,CEDESSP630,CEDESSP631,Consultor de TI,Técnico,1967-09-09
+C064478,Luciano Dos Reis De Sousa,CEDESSP630,CEDESSP631,Assistente Pleno,Técnico,1979-03-15
+C076474,Hellen Aparecida Souto Domingos,CEDESSP630,CEDESSP631,Consultor de TI,Técnico,1981-08-18
+C127100,Elson Massahaki Oka,CEDESSP630,CEDESSP631,TBN,Técnico,1963-01-29
+C108268,Luiz Fernando Mesashi,CEDESSP630,CEDESSP631,Assistente Senior,Técnico,1985-01-11
+C127223,Guilherme Vieira Dos Santos,CEDESSP630,CEDESSP631,TBN,Técnico,1986-02-03
+C105808,Patricia Yuri Rodriguez,CEDESSP630,CEDESSP631,TBN,Técnico,1986-07-07
+C050605,Rosana Cristina Faverao,CEDESSP630,CEDESSP631,Coordenador de Projeto de TI,Gerencial,1972-01-23
+C111476,Celia Dos Santos Rodrigues Andrade,CEDESSP630,CEDESSP631,Assistente Pleno,Técnico,1976-03-19
+C127162,Izac Lins Dos Santos,CEDESSP630,CEDESSP632,Consultor de TI,Técnico,1981-01-18
+C096489,Kazumitsu Thiago Bugs Wakassa,CEDESSP630,CEDESSP632,Assistente Pleno,Técnico,1981-01-19
+C024671,Edison Rodrigues Da Silva,CEDESSP630,CEDESSP632,Especialista 6h,Técnico,1968-10-21
+C080700,Daniel Cortinhas,CEDESSP630,CEDESSP632,Consultor de TI,Técnico,1983-06-21
+C129423,Fernando Candia,CEDESSP630,CEDESSP632,TBN,Técnico,1987-08-02
+C055715,Luiz Henrique Samejima,CEDESSP630,CEDESSP632,Coordenador de Projeto de TI,Gerencial,1978-09-26
+C046543,Silvio Ricardo Terato,CEDESSP630,CEDESSP633,Analista Pleno 8h,Técnico,1968-08-03
+C079424,Wendel Lopes Dos Santos,CEDESSP630,CEDESSP633,Consultor de TI,Técnico,1979-04-27
+C079563,Valdir De Souza Junior,CEDESSP630,CEDESSP633,Assistente Pleno,Técnico,1982-11-17
+C129481,Maycon Jefferson Mascelloni,CEDESSP630,CEDESSP633,TBN,Técnico,1985-11-24
+C095359,Victor Felippe Amaral De Oliveira,CEDESSP630,CEDESSP633,Coordenador de Projeto de TI,Gerencial,1987-05-23
+C300518,Fernando Madeira Nunes,CEDESSP640,,Coordenador de TI,Gerencial,1957-08-09
+C090762,Rodrigo Prado de Jesus,CEDESSP640,CEDESSP641,Coordenador de Projeto de TI,Gerencial,1980-01-01
+C091454,Sandra Fretes Mendes,CEDESSP640,CEDESSP641,Assistente Junior,Técnico,1975-01-28
+C070474,Nildo Jose Romao,CEDESSP640,CEDESSP641,Consultor de TI,Técnico,1963-06-05
+C034756,Rosane Deganeli De Brito,CEDESSP640,CEDESSP641,TBN,Gerencial,1968-08-25
+C075109,Claudia Emiko Otaki Nakayama,CEDESSP640,CEDESSP641,Assistente Junior,Técnico,1973-02-26
+C082221,Danielle Carrer Lima,CEDESSP640,CEDESSP641,Assistente Junior,Técnico,1979-12-14
+C039418,Odete Yumi Morioka,CEDESSP640,CEDESSP641,Consultor de TI,Técnico,1968-02-12
+C080699,Clarissa Do Amaral Moreira Polushin,CEDESSP640,CEDESSP641,Assistente Senior,Técnico,1983-03-07
+C091456,Adriana Vicente Moda De Carvalho,CEDESSP640,CEDESSP641,Assistente Junior,Técnico,1978-10-14
+C034017,Celso Prado Giardina,CEDESSP640,CEDESSP641,Consultor de TI,Técnico,1968-05-02
+C111473,Rogerio Costa Glass,CEDESSP640,CEDESSP641,Consultor de TI,Técnico,1977-02-07
+C050420,Mario Edson Pandagis Emygdio,CEDESSP640,CEDESSP647,Consultor de TI,Técnico,1958-06-17
+C067223,Suzana Kawamura,CEDESSP640,CEDESSP647,Supervisor de TI,Gerencial,1984-09-27
+C129421,Jose Marcelo Bufarah Caroni,CEDESSP640,CEDESSP647,Consultor de TI,Técnico,1960-03-18
+C058988,Homero Oscar Pereira,CEDESSP640,CEDESSP647,Assistente Junior,Técnico,1958-08-27
+C088273,Marcela Cavalcanti Dos Santos Corredato,CEDESSP640,CEDESSP647,Consultor de TI,Técnico,1982-04-08
+C091449,Patricia Donizete Alves Viana,CEDESSP640,CEDESSP647,Assistente Pleno,Técnico,1979-08-27
+C066504,Willian Rodrigues Dos Santos,CEDESSP650,,Coordenador de TI,Gerencial,1984-05-05
+C889475,Wladimir Minoru Honda,CEDESSP650,CEDESSP651,Assistente Junior,Técnico,1961-11-21
+C082402,Anderson Diego Barbosa De Lima,CEDESSP650,CEDESSP651,Assistente Junior,Técnico,1983-08-22
+C076511,Anderson Jose Pereira Rodrigues,CEDESSP650,CEDESSP651,Coordenador de Projeto de TI,Gerencial,1983-10-09
+C093292,Danilo Meira E Silva,CEDESSP650,CEDESSP651,TBN,Técnico,1985-09-05
+C077615,Afonso Pereira,CEDESSP650,CEDESSP652,Assistente Junior,Técnico,1953-08-10
+C075219,Adonai Martinho Moreira,CEDESSP650,CEDESSP652,Coordenador de Projeto de TI,Gerencial,1964-03-22
+C126903,Denis Marcel Fernandes,CEDESSP650,CEDESSP652,Assistente Junior,Técnico,1988-05-20
+C052958,Luciano Seite Nishikawa,CEDESSP650,CEDESSP652,Consultor de TI,Técnico,1979-09-09
+C068049,Fernanda Izepe,CEDESSP660,,Coordenador de TI,Gerencial,1983-07-05
+C066367,Rodrigo Loureto De Rezende,CEDESSP660,CEDESSP661,Assistente Senior,Técnico,1981-07-16
+C099404,Heloisa Guedes Da Cunha Okumura,CEDESSP660,CEDESSP661,Coordenador de Projeto de TI,Gerencial,1979-12-04
+C038030,Ana Lucia Afonso Ruiz,CEDESSP660,CEDESSP661,Consultor de TI,Técnico,1968-10-11
+C089717,Fabiana Almeida Monaco,CEDESSP660,CEDESSP661,Assistente Pleno,Técnico,1984-06-11
+C111482,Daniela Santos,CEDESSP660,CEDESSP662,Coordenador de Projeto de TI,Gerencial,1981-06-21
+C081510,Rafael De Souza Bonetti,CEDESSP660,CEDESSP662,Consultor de TI,Técnico,1983-01-04
+C131294,Andre Airton de Sena,CEDESSP660,CEDESSP662,TBN,Técnico,1987-06-13
+C055428,Carlos Erik Dos Santos,CEDESSP660,CEDESSP662,Assistente Senior,Técnico,1979-10-08
